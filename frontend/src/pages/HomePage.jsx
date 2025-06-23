@@ -11,6 +11,11 @@ const categories = [
 	{ href: "/jackets", name: "Jackets", imageUrl: "/jackets.jpg" },
 	{ href: "/suits", name: "Suits", imageUrl: "/suits.jpg" },
 	{ href: "/bags", name: "Bags", imageUrl: "/bags.jpg" },
+	{ href: "/belts", name: "Leather Belts", imageUrl: "/leather-belt.jpg" },
+	{ href: "/bracelets", name: "Men's Accessories", imageUrl: "/bracelets.jpg" },
+
+	
+
 ];
 
 const HomePage = () => {
